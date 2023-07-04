@@ -37,6 +37,6 @@ public class BubbleSort {
         System.out.println("\nAfter");
         bubbleSort(n);
         printArr(n);
-        
+
     }
 }
