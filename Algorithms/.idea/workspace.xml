@@ -37,13 +37,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CustomStack">
+  <component name="RunManager" selected="Application.CustomLinkedList">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.bubble.BubbleSort" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sort.bubble.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.CustomLinkedList" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,26 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeCustom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.TreeCustom" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomLinkedList" />
         <item itemvalue="Application.CustomStack" />
         <item itemvalue="Application.CustomQueue" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.TreeCustom" />
       </list>
     </recent_temporary>
   </component>
