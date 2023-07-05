@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CustomLinkedList">
+  <component name="RunManager" selected="Application.MaxHeapExample">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.bubble.BubbleSort" />
       <module name="Algorithms" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.quick.QuickSort" />
+    <configuration name="MaxHeapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap.maxHeap.MaxHeapExample" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.quick.*" />
+          <option name="PATTERN" value="heap.maxHeap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxHeapExample" />
         <item itemvalue="Application.CustomLinkedList" />
         <item itemvalue="Application.CustomStack" />
         <item itemvalue="Application.CustomQueue" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
