@@ -4,12 +4,12 @@ public class CustomLinkedList {
     public static void main(String[] args) {
         LinkedListC<Integer> c = new LinkedListC<>();
         c.addFirst(1);
-        c.add(2,2);
-        c.add(3,5);
-        c.add(4,7);
         c.addLast(11);
         c.addLast(12);
         c.addLast(24);
+        c.add(5,2);
+        c.add(6,5);
+        c.add(4,7);
         c.print();
         c.deleteFirst();
         c.deleteLast();
@@ -56,6 +56,7 @@ class LinkedListC<Value>{
                 current = current.next;
             }
             current.next = newNode;
+            tail = current.next;
         }
     }
     // add(position,value)

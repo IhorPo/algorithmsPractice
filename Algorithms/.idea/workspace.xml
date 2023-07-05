@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7f62564-2b32-4353-8cfb-b8581fd61897" name="Changes" comment="">
+    <list default="true" id="a7f62564-2b32-4353-8cfb-b8581fd61897" name="Changes" comment="added line 59 to the CustomLinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/CustomLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/CustomLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxHeapExample">
+  <component name="RunManager" selected="Application.CustomLinkedList">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.bubble.BubbleSort" />
       <module name="Algorithms" />
@@ -105,8 +106,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxHeapExample" />
         <item itemvalue="Application.CustomLinkedList" />
+        <item itemvalue="Application.MaxHeapExample" />
         <item itemvalue="Application.CustomStack" />
         <item itemvalue="Application.CustomQueue" />
         <item itemvalue="Application.BubbleSort" />
@@ -123,5 +124,9 @@
       <updated>1687263338583</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added line 59 to the CustomLinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="added line 59 to the CustomLinkedList" />
   </component>
 </project>
